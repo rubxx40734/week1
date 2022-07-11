@@ -1,0 +1,153 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+img{
+    vertical-align: middle;
+}
+.mb8{
+    margin-bottom: 8px;
+}
+.mb16{
+    margin-bottom: 16px;
+}
+.mb24{
+    margin-bottom: 24px;
+}
+
+.mb70{
+    margin-bottom: 70px;
+}
+.white{
+    color: white;
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.title{
+    border-bottom: 1px solid black;
+    margin-bottom: 48px;
+}
+.person{
+    font-size: 80px;
+    line-height: 1.19;
+    margin-bottom: 16px;
+}
+.personImg{
+    margin-bottom: 54px;
+}
+.education{
+    margin-bottom: 64px;
+}
+.mainTxt{
+    font-size: 32px;
+    line-height: 1.5;
+    border-bottom: 1px solid black;
+    margin-bottom: 16px;
+}
+.spanTxt{
+    font-size: 24px;
+    line-height: 1.5;
+    color: #A00404;
+    margin-left: 16px;
+}
+.utilTxt{
+    font-size: 24px;
+    line-height: 1.5;
+}
+.skill{
+    background-color: #415165;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 40px;
+    margin-bottom: 64px;
+}
+.skillTxt{
+    font-size: 32px;
+    line-height: 1.5;
+    color: white;
+    border-bottom: 1px solid white;
+    width: 996px;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+.SkillSpan{
+    font-size: 24px;
+    line-height: 1.5;
+    color: white;
+    margin-left: 16px;
+}
+.skillMenu{
+    border-left: 1px solid #96A9C4;
+    width: 200px;
+    margin: 0 auto;
+    text-align: left;
+    padding-left: 24px;
+}
+.expreise{
+    margin-bottom: 80px;
+}
+.specilEx{
+    margin-left: 24px;
+    padding-left: 24px;
+    border-left: 1px solid #96A9C4;
+}
+.smTxt{
+    font-size: 20px;
+    line-height: 1.5;
+}
+.footer{
+    background-color: #415165;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+.settimg{
+    margin-right: 24px;
+    margin-left: 24px;
+}
